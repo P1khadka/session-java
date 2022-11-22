@@ -5,9 +5,9 @@ public class Cars {
     // model
     // year
     // door type
-    // seats
+    // no of seats
     // engine type
-    // AC
-    // prices
+    // heated seat or not
+    // price
 
 }

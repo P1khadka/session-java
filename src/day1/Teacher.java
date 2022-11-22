@@ -4,7 +4,7 @@ public class Teacher {
     // name
     // dob
     // qualification
-    // experiences
+    // no of years experiences
     // address
     // Teaching subject
     // Salary
