@@ -1,6 +1,6 @@
 package day1;
 
-public class Cars {
+public class Car {
     // brand name
     // model
     // year
