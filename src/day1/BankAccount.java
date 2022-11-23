@@ -13,4 +13,15 @@ public class BankAccount {
     // bank name
     // Social card number
     // Opening branch
+
+    //Behavior
+
+    //deposit
+    //withdraw
+    // transfer balance
+    //download statements
+    //link credit card
+    //link debit card
+    //check balance
+
 }
