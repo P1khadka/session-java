@@ -12,5 +12,15 @@ public class House {
     // built in year
     // owner name
 
+    //behaviours
+    //buy
+    //sell
+    //check later
+    // add to cart
+    // property details
+    //sale and tax history
+    // share
+
+
 
 }

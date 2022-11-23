@@ -9,4 +9,8 @@ public class Student {
     // section
     // class
     // Address
+
+    // behaviours
+    // pay fee
+    //submit assignment
 }

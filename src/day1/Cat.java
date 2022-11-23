@@ -9,5 +9,10 @@ public class Cat {
     // pics
     // name
 
+    // behaviours
+    // buy
+    // add to cart
+    //
+
 
 }

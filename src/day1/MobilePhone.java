@@ -12,4 +12,13 @@ public class MobilePhone {
     // connectivity
     // battery
     // display
+
+    // behaviours
+    // buy
+    // add to cart
+    // share
+    // like
+    //increase quantity
+    //add to wishlist
+    //comments
 }

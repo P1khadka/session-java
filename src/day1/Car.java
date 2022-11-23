@@ -10,4 +10,11 @@ public class Car {
     // heated seat or not
     // price
 
+    // behaviour
+    // reviews
+    // news
+    // photos and videos
+    //add to cart
+    // get started
+
 }

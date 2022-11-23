@@ -8,4 +8,9 @@ public class Teacher {
     // address
     // Teaching subject
     // Salary
+
+    // behaviour
+    // pay salary
+    // hours worked
+    // rating
 }
