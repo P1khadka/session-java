@@ -2,13 +2,13 @@ package day1;
 
 public class Student {
     // States
-    // full name
-    // faculty
-    // roll number
-    // date of birth
-    // section
-    // class
-    // Address
+    // full name(String)
+    // faculty(String)
+    // roll number(String)
+    // date of birth(String)
+    // section(String)
+    // class(int)
+    // Address(String)
 
     // behaviours
     // pay fee

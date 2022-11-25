@@ -11,6 +11,6 @@ public class Teacher {
 
     // behaviour
     // pay salary
-    // hours worked
-    // rating
+    // view hours worked
+    // provide rating
 }

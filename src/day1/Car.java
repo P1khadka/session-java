@@ -1,19 +1,19 @@
 package day1;
 
 public class Car {
-    // brand name
-    // model
-    // year
-    // door type
-    // no of seats
-    // engine type
-    // heated seat or not
-    // price
+    // brand name (String)
+    // model(String)
+    // year(int)
+    // door type (String)
+    // no of seats(int)
+    // engine type(String)
+    // heated seat or not(boolean)
+    // price(double)
 
     // behaviour
-    // reviews
+    // view reviews
     // news
-    // photos and videos
+    // see photos and videos
     //add to cart
     // get started
 

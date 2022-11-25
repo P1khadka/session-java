@@ -2,22 +2,22 @@ package day1;
 
 public class House {
     // States
-    // color
-    // rooms
-    // no of kitchen
-    //no of restroom
-    // no of door
-    // no of walking close it
-    // no of windows
-    // built in year
-    // owner name
+    // color(String)
+    // no of rooms(int)
+    // no of kitchen(int)
+    //no of restroom(int)
+    // no of door(int)
+    // no of walking close it(int)
+    // no of windows(int)
+    // built in year(int)
+    // owner name(String)
 
     //behaviours
     //buy
     //sell
     //check later
     // add to cart
-    // property details
+    // view property details
     //sale and tax history
     // share
 

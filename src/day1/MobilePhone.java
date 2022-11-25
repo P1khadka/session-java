@@ -2,16 +2,18 @@ package day1;
 
 public class MobilePhone {
     // States
-    //Os
-    // color
-    //prices
-    // size
-    // brand
-    // storage
-    // no of cameras
-    // connectivity
-    // battery
-    // display
+    //Os(String)
+    // color(String)
+    //prices(double)
+    // size(int)
+    //sizeunit(String)
+    // brand(String)
+    // storage(int)
+    //storageunit(String)
+    // no of cameras(int)
+    // connectivity(String)
+    // battery(String)
+    // display(String)
 
     // behaviours
     // buy
@@ -20,5 +22,5 @@ public class MobilePhone {
     // like
     //increase quantity
     //add to wishlist
-    //comments
+    //view comments
 }

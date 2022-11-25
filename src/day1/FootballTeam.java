@@ -1,6 +1,6 @@
 package day1;
 
-public class Footballteam {
+public class FootballTeam {
     // States
     //country name
     // goalkeeper
@@ -8,9 +8,9 @@ public class Footballteam {
     // midfielder
     //coach
     //last five games
-    // phone number
+     // phoneNumber;
 
     // behaviour
     // pay players
-    //contract
+    //view contract
 }
